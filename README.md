@@ -1,4 +1,4 @@
-# Cherry-Blossom-Statistic-in-London-using-Tableau-Public
+# Cherry-Blossom-in-London-using-Tableau-Public
 
 This project focuses on **visualizing cherry blossom statistics in London** using **Tableau Public**. The dataset includes information on the **number of cherry blossoms, their flowering periods, colors, and distribution across different districts in London**.
 
