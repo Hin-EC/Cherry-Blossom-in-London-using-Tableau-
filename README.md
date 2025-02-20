@@ -30,7 +30,8 @@ In this project, I created the following **visualizations** in Tableau Public:
 
 Here’s a screenshot of the Tableau Public visualizations:
 
-![Dashboard 1 (1)](https://github.com/user-attachments/assets/c5a61dc6-584f-4753-b04c-c3f1aeb6d702)
+![Cherry Blossom in London Dashboard](https://github.com/user-attachments/assets/3da97745-fe80-495d-925e-377dd66ce402)
+
 
 
 ## Tableau Public Link
