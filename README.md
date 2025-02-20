@@ -37,4 +37,4 @@ Here’s a screenshot of the Tableau Public visualizations:
 ## Tableau Public Link
 
 You can explore the interactive visualizations on **Tableau Public** here:  
-[🔗 View on Tableau Public](https://public.tableau.com/views/CherryBlossomStatistic/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[🔗 View on Tableau Public](https://public.tableau.com/views/CherryBlossomStatistic/CherryBlossominLondonDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
